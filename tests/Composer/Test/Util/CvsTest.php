@@ -15,7 +15,7 @@ namespace Composer\Test\Util;
 use Composer\Config;
 use Composer\IO\NullIO;
 use Composer\Util\Platform;
-use Composer\Util\Svn;
+use Composer\Util\Cvs;
 
 class CvsTest extends \PHPUnit_Framework_TestCase
 {
