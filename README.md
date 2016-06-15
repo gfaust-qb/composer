@@ -1,11 +1,6 @@
 Composer - Dependency Management for PHP
 ========================================
 
-About this fork
----------------
-
-I try to add CVS as allowed VCS.
-
 Composer helps you declare, manage and install dependencies of PHP projects, ensuring you have the right stack everywhere.
 
 See [https://getcomposer.org/](https://getcomposer.org/) for more information and documentation.
@@ -13,6 +8,11 @@ See [https://getcomposer.org/](https://getcomposer.org/) for more information an
 [![Build Status](https://travis-ci.org/gfaust-qb/composer.svg?branch=master)](https://travis-ci.org/gfaust-qb/composer)
 [![Dependency Status](https://www.versioneye.com/php/gfaust-qb:composer/dev-master/badge.svg)](https://www.versioneye.com/php/gfaust-qb:composer/dev-master)
 [![Reference Status](https://www.versioneye.com/php/gfaust-qb:composer/reference_badge.svg?style=flat)](https://www.versioneye.com/php/gfaust-qb:composer/references)
+
+About this fork
+---------------
+
+I try to add CVS as allowed VCS.
 
 Installation / Usage
 --------------------
