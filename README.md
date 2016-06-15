@@ -1,6 +1,11 @@
 Composer - Dependency Management for PHP
 ========================================
 
+About this fork
+---------------
+
+I try to add CVS as allowed VCS.
+
 Composer helps you declare, manage and install dependencies of PHP projects, ensuring you have the right stack everywhere.
 
 See [https://getcomposer.org/](https://getcomposer.org/) for more information and documentation.
